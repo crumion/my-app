@@ -12,4 +12,4 @@ This web application was created by Tyler Horwitz and Colton Crum for their Feat
 
 - Component tree diagram can be found (https://lucid.app/lucidchart/invitations/accept/inv_8931a9a2-5b4e-4304-a114-39ca3ac6d80d?viewport_loc=-28%2C16%2C2304%2C1134%2C0_0) or under 'my-app/src/Component Tree Diagram.png'
 
-- This project can be found on Github at 
+- This project can be found on Github at https://github.com/crumion/my-app
